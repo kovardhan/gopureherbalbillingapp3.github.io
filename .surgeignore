@@ -1,0 +1,9 @@
+node_modules
+test_*.js
+deploy_*.js
+package*.json
+server.js
+README.md
+.git
+*.log
+
